@@ -1,4 +1,3 @@
-import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QFileDialog, QMessageBox, QTextEdit
 from PyQt5.QtGui import QPalette, QColor
 import hashlib
